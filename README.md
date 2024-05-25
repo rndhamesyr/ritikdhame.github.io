@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=25&pause=500&color=28F7D9&random=false&width=435&lines=Hello+this+is+RITIK+DHAME;Welcome+to+my+GitHub+Repository;%23Data+Engineering;%23Machine+Leanring;%23Data+Analysis)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=20&pause=500&color=28F7D9&background=FFFFFF00&center=true&width=435&lines=Hello+this+is+RITIK+DHAME;Welcome+to+my+GitHub+Repository;%23Data+Engineering;%23Machine+Learning;%23Data+Analysis" alt="Typing SVG">
+</div>
 
 ## About Me
 
