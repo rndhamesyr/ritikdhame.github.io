@@ -3,8 +3,12 @@
 </div>
 
 ### About Me
-Hello! My name is **Ritik Dhame**. I am a data analyst with experience in data science, data processing, and data visualization. I hold a Masters of Science in Information Systems from Syracuse University and a Bachelors of Engineering in Electronics from Mumbai University.
+I am a data analyst with experience in data science, data processing, and data visualization. I hold a Masters of Science in Information Systems from Syracuse University and a Bachelors of Engineering in Electronics from Mumbai University.
 Currently, I work at **iConsult Collaborative** as a Data Analyst, where I analyze data to provide insights and support business decisions. I have previously worked as a Business Intelligence Analyst and a Data Scientist, gaining experience in various data-related projects.
 
-### Contact Me : [![Email](https://img.shields.io/badge/Email-ritikdhame%40example.com-%230366D6)](mailto:ritikdhame@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik%20Dhame-%230366D6)](https://www.linkedin.com/in/ritikdhame/)
+<p align="center">
+  <a href="mailto:ritikdhame5@gmail.com"><img src="https://img.shields.io/badge/Email-ritikdhame5%40gmail.com-%230066D6?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ritikdhame/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ritikdhame-%230066D6?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/messaging/compose/?recipient=ritikdhame&body=Hi%20Ritik,%0AI%27m%20interested%20in%20requesting%20your%20resume.%20Could%20you%20please%20share%20it%20with%20me" target="_blank"><img src="https://img.shields.io/badge/Request%20Resume-%230066D6?style=flat&logo=file"></a>
+</p>
 
